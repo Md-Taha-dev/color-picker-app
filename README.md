@@ -7,4 +7,4 @@ This color picker app is a React Component which allows the user to select a col
 - All the html tags of h1, p, label and input are wrapped in a div container for styling and is styled using CSS. 
 
 # Output
-![My Logo](logo.png)
+![Ouptut](ColorPickerOutput.png)
